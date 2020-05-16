@@ -1,0 +1,7 @@
+This is the second file which
+was created at my local machine 
+and is uploaded to my repository 
+on GIT-HUB
+
+Thank you.
+
